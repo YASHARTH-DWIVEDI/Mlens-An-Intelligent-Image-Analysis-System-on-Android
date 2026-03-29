@@ -1,4 +1,4 @@
-# MLens: image Analsis 
+# MLens: An Intelligent Image AnalysisB System on Android
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-purple.svg)](https://kotlinlang.org)
