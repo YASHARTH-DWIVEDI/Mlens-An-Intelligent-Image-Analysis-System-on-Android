@@ -1,4 +1,4 @@
-# MLens: An Intelligent Image AnalysisB System on Android
+# MLens: An Intelligent Image Analysis System on Android
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-purple.svg)](https://kotlinlang.org)
@@ -87,3 +87,6 @@ MLens is specifically architected to support the mission-critical needs of:
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
