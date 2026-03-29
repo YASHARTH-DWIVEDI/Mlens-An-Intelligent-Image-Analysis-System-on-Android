@@ -1,0 +1,31 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Gradle cache and generated files
+.gradle/
+/build/
+*/build/
+
+# Android Studio / IntelliJ IDEA Workspace
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Mac OS X
+.DS_Store
+
+# User-specific local properties
+local.properties
+
+# Keystore files (NEVER commit your signing keys!)
+*.jks
+*.keystore
+
+# Google Services (if you add Firebase later)
+google-services.json
