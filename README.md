@@ -10,7 +10,7 @@
 ## 🚀 Key Features
 
 ### 1. High-Speed Object Detection (YOLO)
-Utilizes a **YOLO-based pipeline** optimized for mobile edge devices. MLens achieves high-frequency frame processing, enabling sub-millisecond response times for object localization and tracking.
+Utilizes a **YOLO-based pipeline** optimized for mobile edge devices. MLens achieves high-quality frame processing, enabling sub-millisecond response times for object localization and tracking.
 
 ### 2. Spatial Relationship Analyzer
 Unlike standard detection systems, MLens features a proprietary **Spatial Intelligence Layer**. It interprets the proximity, orientation, and interaction between entities (e.g., "Player A is *intercepting* the ball" or "Vehicle X is *entering* a restricted zone").
@@ -81,12 +81,8 @@ app/src/main/java/com/mlens/app/
 ## 🎯 Industrial Alignment
 
 MLens is specifically architected to support the mission-critical needs of:
-- **Professional Sports**: Real-time tactical analysis for coaches and broadcasters.
+- **Professional Sports**: Real-time tactical analysis for broadcasters.
 - **Critical Infrastructure**: Automated monitoring of restricted areas with spatial context.
 - **Smart Marketing**: GDPR-compliant audience analysis and engagement tracking.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
