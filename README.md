@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-purple.svg)](https://kotlinlang.org)
 
-**MLens** is a high-performance, modular computer vision framework designed for real-time video analytics and intelligent scene perception. Engineered with a focus on **Edge AI**, MLens moves beyond simple object detection to provide deep contextual and spatial understanding of environments, making it ideal for high-stakes industries like professional sports analytics (F1, Soccer), autonomous monitoring, and strategic event tracking.
+**MLens** is a high-performance, modular computer vision framework designed for real-time Image analytics and intelligent scene perception. Engineered with a focus on *Edge AI*, MLens moves beyond simple object detection to provide deep contextual and spatial understanding of environments, making it ideal for high-stakes industries like professional sports analytics (F1, Soccer), autonomous monitoring, and strategic event tracking.
 
 ---
 
