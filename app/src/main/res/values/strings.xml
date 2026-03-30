@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MLens</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="search_images">Search Images</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="processing">Processing...</string>
+    <string name="error_processing">Error processing image</string>
+    <string name="no_images">No images yet</string>
+    <string name="add_first_image">Tap the + button to add your first image</string>
+    <string name="search_hint">Search by tags or content...</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="retry">Retry</string>
+    <string name="permission_camera">Camera permission is required to take photos</string>
+    <string name="permission_storage">Storage permission is required to access images</string>
+</resources>
