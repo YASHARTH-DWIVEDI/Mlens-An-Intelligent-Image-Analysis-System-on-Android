@@ -1,1 +1,60 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M24,4C12.95,4 4,12.95 4,24s8.95,20 20,20s20,-8.95 20,-20S35.05,4 24,4z"/>
+    
+    <!-- Magnifying glass handle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:pathData="M32,32l8,8"/>
+    
+    <!-- Magnifying glass circle -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M26,18A8,8 0 1,1 26,34A8,8 0 1,1 26,18Z"/>
+    
+    <!-- ML text inside magnifying glass -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,22h1v8h-1v-3h-2v3h-1v-8h1v4h2v-4z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,22h1v7h3v1h-4v-8z"/>
+    
+    <!-- Neural network dots -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M14,16m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"/>
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M14,24m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"/>
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M14,32m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"/>
+    
+    <!-- Connection lines -->
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="1"
+        android:pathData="M16,16L18,20"/>
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="1"
+        android:pathData="M16,24L18,24"/>
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="1"
+        android:pathData="M16,32L18,28"/>
+    
+</vector>
